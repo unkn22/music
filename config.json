@@ -1,9 +1,7 @@
 {
     "prefix": ">",
-    "guildId": "1013383747388846091",
     "clientId": "1013383747388846091",
     "owner": "919992432479838269",
-    "token": "",
     "colorDefault": "#57F287",
     "colorError": "#FF0000",
     "spotifyApi": {
