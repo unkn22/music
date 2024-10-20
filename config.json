@@ -1,14 +1,14 @@
 {
     "prefix": "p!",
     "guildId": "guild id",
-    "clientId": "client id",
-    "owner": "owner id",
+    "clientId": "1013383747388846091",
+    "owner": "919992432479838269",
     "token": "token",
-    "colorDefault": "#ecc5c0",
-    "colorError": "#FF4949",
+    "colorDefault": "#57F287",
+    "colorError": "#FF0000",
     "spotifyApi": {
         "enabled": true,
-        "clientSecret": "Spotify Client Secret",
-        "clientId": "Spotify Client ID"
+        "clientSecret": "60031a6edde447d9b3dad493907d5b88",
+        "clientId": "2eb0dbbf8d114665bf6bdec003a0cde3"
     }
 }
